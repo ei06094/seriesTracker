@@ -1,0 +1,6 @@
+git commit -am "cenas"
+
+git push myorigin master
+
+
+git pull myorigin master
